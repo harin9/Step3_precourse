@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Step3-precourse/static/css/main.6c8a9dba.css",
-    "main.js": "/Step3-precourse/static/js/main.c500baa0.js",
-    "static/js/787.393238a3.chunk.js": "/Step3-precourse/static/js/787.393238a3.chunk.js",
-    "index.html": "/Step3-precourse/index.html",
-    "main.6c8a9dba.css.map": "/Step3-precourse/static/css/main.6c8a9dba.css.map",
-    "main.c500baa0.js.map": "/Step3-precourse/static/js/main.c500baa0.js.map",
-    "787.393238a3.chunk.js.map": "/Step3-precourse/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/Step3-precourse/tic-tac-toe/static/css/main.6c8a9dba.css",
+    "main.js": "/Step3-precourse/tic-tac-toe/static/js/main.c86316e9.js",
+    "static/js/787.393238a3.chunk.js": "/Step3-precourse/tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/Step3-precourse/tic-tac-toe/index.html",
+    "main.6c8a9dba.css.map": "/Step3-precourse/tic-tac-toe/static/css/main.6c8a9dba.css.map",
+    "main.c86316e9.js.map": "/Step3-precourse/tic-tac-toe/static/js/main.c86316e9.js.map",
+    "787.393238a3.chunk.js.map": "/Step3-precourse/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c8a9dba.css",
-    "static/js/main.c500baa0.js"
+    "static/js/main.c86316e9.js"
   ]
 }
